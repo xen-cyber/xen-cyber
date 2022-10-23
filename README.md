@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">My name is Pierre, and I'm a developer who is passionate about building applications, software and learning new technologies.</h3>
 
-- 🔭 I’m currently working on [Meme X](https://nanny.eu.org).
+- 🔭 I’m currently working on [Nanny](https://nanny.eu.org).
 
 - 📫 How to reach me: **pierrelawandos@gmail.com**
 
